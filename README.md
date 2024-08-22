@@ -1,5 +1,3 @@
-Hi, I'm Felipe Giraldo-Grueso.
-
 Currently working on getting my Ph.D. in Aerospace Engineering @ UT Austin.
 
 <!---
