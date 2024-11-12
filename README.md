@@ -1,4 +1,4 @@
-Currently working on getting my Ph.D. in Aerospace Engineering @ UT Austin.
+Currently working on my Ph.D. in Aerospace Engineering @ UT Austin.
 
 <!---
 fgiraldog/fgiraldog is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
